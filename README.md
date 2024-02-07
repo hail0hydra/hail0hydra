@@ -38,11 +38,18 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash"></code>
+<code><img height="20" src="https://c.s-microsoft.com/favicon.ico" alt="Windows"></code>
+<code><img height="20" src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="GitHub"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1024px-Wordpress_Blue_logo.png" alt="WordPress"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker"></code>
+<code><img height="20" src="https://miro.medium.com/v2/resize:fit:720/1*kk22SDXEt6p-mQCSlOYpcg.png" alt="Active Directory"></code>
 
 
 <br>
@@ -56,6 +63,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://www.hackerone.com/sites/default/files/inline-images/hashcat.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png"></code>
 <code><img height="20" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png"></code>
+<code><a href="https://en.wikipedia.org/wiki/Open-source_intelligence">OSINT</a></code>
+<code><a  href="https://www.eccouncil.org/vapt-career-path/">VAPT</a></code>
 
 <br>
 <br>
@@ -66,7 +75,6 @@ Here are some ideas to get you started:
 
 **TryHackMe & HackTheBox Stats:**
 
-<br>
 
 <img src="https://www.hackthebox.com/badge/image/760208"> <img src="https://tryhackme-badges.s3.amazonaws.com/useraddmme.png" alt="TryHackMe">
 
