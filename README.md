@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+I+am+s1ck+:\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hi+I+am+hail0hyrda+:\))](https://git.io/typing-svg)
 
 
 
