@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
 
-  Vulnerable Machine & Content Development • Offensive Security • Hobby ⚑ Collector • Walkthroughs @ [yotube-channel](https://www.youtube.com/@avinashsharma5234)
+  Vulnerable Machine & Content Development • Offensive Security • Hobby ⚑ Collector • Walkthroughs @ [youtube-channel](https://www.youtube.com/@avinashsharma5234)
 </p> 
 
 
